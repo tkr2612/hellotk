@@ -1,1 +1,0 @@
-It is created to add the text inside the test2 file to github
